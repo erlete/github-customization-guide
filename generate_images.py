@@ -15,6 +15,7 @@ from github_stats import Stats
 
 def generate_output_folder() -> None:
     """
+    Create the output folder if it does not already exist
     """
     if not os.path.isdir("generated"):
         os.mkdir("generated")
