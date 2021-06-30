@@ -2,6 +2,10 @@
 
 This file contains a table of contents that relates the repository files with their respective owners and sources.
 
+## [erlete](https://github.com/erlete/)/[github-customisation-guide](https://github.com/erlete/github-customisation-guide/)/[markdown-guide.md](https://github.com/erlete/github-customisation-guide/blob/master/markdown_guide.md)
+
+Contents extracted from [Official GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) and [Daring Fireball](https://daringfireball.net/projects/markdown/syntax).
+
 ## [anuraghazra](https://github.com/anuraghazra/)/[github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
 
 No files required, since the service is server-hosted and project's repository is not, in any way, copied, distributed or modified.
