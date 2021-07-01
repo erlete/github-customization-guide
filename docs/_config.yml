@@ -1,6 +1,6 @@
 title: GitHub Customization Guide
 author: Paulo Sánchez
-theme: jekyll-theme-cayman
+theme: minima
 email: szblzpaulo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     A complete guide for GitHub READMEs customization.
