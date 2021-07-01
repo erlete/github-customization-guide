@@ -5,3 +5,10 @@ The main objective of this project is to provide with a friendly learning interf
 # Accreditations
 
 <see source>
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/erlete/github-customization-guide/blob/master/generated/overview.svg)
+![](https://github.com/erlete/github-customization-guide/blob/master/generated/languages.svg)
+
+</a>
