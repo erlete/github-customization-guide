@@ -1,4 +1,6 @@
-# Sources
+---
+title: "Sources"
+---
 
 This file contains a table of contents that relates the repository files with their respective owners and sources.
 
