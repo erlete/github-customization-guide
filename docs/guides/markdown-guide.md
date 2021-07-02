@@ -13,6 +13,7 @@ _Note: examples provided in this document are built upon three steps or phases: 
 
 ***
 
+
 Type | Structure | Raw Example | Processed Example
 ---- | --------- | ----------- | -----------------
 Italic | \*`<text>`\* | \*Italic text\* | *Italic text*
@@ -22,6 +23,7 @@ Strike through | \~\~`<text>`\~\~ | \~\~Strike through text\~\~ | ~~Strike throu
 ## Headers
 
 ***
+
 
 Headers are preceded by the `#` symbol. Since there are different sizes of headers, a hierarchy can be established using multiple `#`:
 
@@ -39,6 +41,7 @@ _For the sake of this document's design, no processed examples are provided, but
 ## Lists
 
 ***
+
 
 ### Unordered Lists
 
@@ -67,6 +70,7 @@ _Note: index numbers do not necessarily have to be ordered, since at the time of
 ## Links
 
 ***
+
 
 ### Normal Links
 
@@ -106,6 +110,7 @@ Structure | Raw Example
 
 ***
 
+
 These elements can be used to cite explicit fragments of some text extracted from another site. Their structure is as follows:
 
 Structure | Raw Example
@@ -119,6 +124,7 @@ Structure | Raw Example
 ## Code
 
 ***
+
 
 ### Span (Plain)
 
@@ -144,8 +150,9 @@ Structure | Raw Example
 
 ## Tables
  
- ***
+***
 
+ 
 Structure | Raw Example
 --------- | -----------
 `<Column 1 Header>` \| `<Column 2 Header>`<br>------------------- \| -------------------<br>`<Row 1 Column 1 Content>` \| `<Row 1 Column 2 Content>`<br>`<Row 2 Column 1 Content>` \| `<Row 2 Column 2 Content>` | Element \| Type<br>-------- \| -----<br>Link \| Span<br>Table \| Block
@@ -159,8 +166,9 @@ Table | Block
 
 ## Task lists
  
- ***
+***
 
+ 
 Structure | Raw Example
 --------- | -----------
 \- \[  \] `<text>`<br>\- \[x\] `<text>` | \- \[  \] Pending Task<br>\- \[x\] Completed Task
