@@ -4,17 +4,9 @@ This repository has the sole purpose of helping those who want to customize thei
 
 # Getting Started
 
-In order to start understanding the concepts that this collection of explanations covers, take a look at the following index. It will help you get a better picture of what you will learn here:
+In order to start understanding the concepts that this collection of chapters covers, take a look at the [repository site](https://erlete.github.io/github-customization-guide/).
 
-1. [Introduction]()
-2. [Markdown Guide]()
-3. [GitHub Stats (I)]()
-4. [GitHub Actions]()
-5. [GitHub Stats (II)]()
-6. [GitHub Pages]()
-7. [Self-updating READMEs]()
-
-Although chapters can be accessed independently, I strongly recommend that you follow the learning path described in [this repository's Pages]().
+Although chapters can be accessed independently, I strongly recommend that you follow the proposed learning path, since this way you will not skip any necessary concept.
 
 # Accreditations and Licensing
 
