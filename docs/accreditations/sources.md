@@ -1,20 +1,16 @@
 ---
 title: "Sources"
+author: "Paulo Sánchez"
 ---
 
-This file contains a table of contents that relates the repository files with their respective owners and sources.
+Author | Project Name | Data Extracted
+------ | ------------ | --------------
+[GitHub Guides](https://guides.github.com/) | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | Guide fragments
+[Daring Fireball](https://daringfireball.net/) | [Markdown](https://daringfireball.net/projects/markdown/) | Guide fragments
+[anuraghazra](https://github.com/anuraghazra/) | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/) | README.md contents
+[jstrieb](https://github.com/jstrieb/) | [github-stats](https://github.com/anuraghazra/github-readme-stats/) | [Repository files](#Jstrieb's Repository Files)
 
-## [erlete](https://github.com/erlete/)/[github-customisation-guide](https://github.com/erlete/github-customisation-guide/)/[markdown-guide.md](https://github.com/erlete/github-customisation-guide/blob/master/markdown_guide.md)
-
-Contents extracted from [Official GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) and [Daring Fireball](https://daringfireball.net/projects/markdown/syntax).
-
-## [anuraghazra](https://github.com/anuraghazra/)/[github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
-
-No files required, since the service is server-hosted and project's repository is not, in any way, copied, distributed or modified.
-
-## [jstrieb](https://github.com/jstrieb/)/[github-stats](https://github.com/anuraghazra/github-readme-stats/)
-
-### Files
+### Jstrieb's Repository Files
 
 * .github
   * workflows
