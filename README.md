@@ -1,14 +1,23 @@
-# A Brief Introduction...
+# GitHub Customization Guide
 
-The main objective of this project is to provide with a friendly learning interface that effectively eases the process of understanding the variety of options avaliable for customizing your GitHub profile in an extended way. Note that many explanations in this project have been legally extracted from other developers' repositories, so I encourage you to go and take a look at [their work](), which deserves tons of appreciation.
+This repository has the sole purpose of helping those who want to customize their GitHub profiles and/or repository READMEs in an extended way, so that they can reach their goal following an easy path.
 
-# Accreditations
+# Getting Started
 
-<see source>
+In order to start understanding the concepts that this collection of explanations covers, take a look at the following index. It will help you get a better picture of what you will learn here:
 
-<a href="https://github.com/jstrieb/github-stats">
+1. [Introduction]()
+2. [Markdown Guide]()
+3. [GitHub Stats (I)]()
+4. [GitHub Actions]()
+5. [GitHub Stats (II)]()
+6. [GitHub Pages]()
+7. [Self-updating READMEs]()
 
-![](https://github.com/erlete/github-customization-guide/blob/master/generated/overview.svg)
-![](https://github.com/erlete/github-customization-guide/blob/master/generated/languages.svg)
+Although chapters can be accessed independently, I strongly recommend that you follow the learning path described in [this repository's Pages]().
 
-</a>
+# Accreditations and Licensing
+
+All legal requirements from third-party projects have been carefully examined and met. This repository is not, in any way, a distribution of the contents cited in [the sources](), but a way of promoting the work of the respective authors of each individual project.
+
+**I ([erlete]()) only take credit for the research labor related to this guide and its elaboration.**
