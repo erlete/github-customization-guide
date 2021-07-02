@@ -1,7 +1,7 @@
 ---
-title: "test 2"
+title: "GitHub-flavored Markdown"
+author: "Paulo Sánchez"
 ---
-# Introduction
 
 MarkDown language files (those with `.markdown` or `.md` extensions, such as `README.md`) have different structural elements that can be used to format text contained in them.
 
@@ -11,6 +11,8 @@ _Note: examples provided in this document are built upon three steps or phases: 
 
 ## Text Style Formatting
 
+***
+
 Type | Structure | Raw Example | Processed Example
 ---- | --------- | ----------- | -----------------
 Italic | \*`<text>`\* | \*Italic text\* | *Italic text*
@@ -18,6 +20,8 @@ Bold | \*\*`<text>`\*\* | \*\*Bold text\*\* | **Bold text**
 Strike through | \~\~`<text>`\~\~ | \~\~Strike through text\~\~ | ~~Strike through text~~
 
 ## Headers
+
+***
 
 Headers are preceded by the `#` symbol. Since there are different sizes of headers, a hierarchy can be established using multiple `#`:
 
@@ -33,6 +37,8 @@ Structure | Raw Example
 _For the sake of this document's design, no processed examples are provided, but you can test them all by yourself, it is quite easy!_
 
 ## Lists
+
+***
 
 ### Unordered Lists
 
@@ -59,6 +65,8 @@ Structure | Raw Example
 _Note: index numbers do not necessarily have to be ordered, since at the time of processing the contents of the list, those numbers are overwritten with procedurally generated values of a succession. The only thing that matters is that the ordered list is indexed as a collection of values followed by a dot._
 
 ## Links
+
+***
 
 ### Normal Links
 
@@ -96,6 +104,8 @@ Structure | Raw Example
 
 ## Blockquotes
 
+***
+
 These elements can be used to cite explicit fragments of some text extracted from another site. Their structure is as follows:
 
 Structure | Raw Example
@@ -107,6 +117,8 @@ Structure | Raw Example
 > GitHub: Where the world builds software.
 
 ## Code
+
+***
 
 ### Span (Plain)
 
@@ -131,6 +143,8 @@ Structure | Raw Example
 ```
 
 ## Tables
+ 
+ ***
 
 Structure | Raw Example
 --------- | -----------
@@ -144,6 +158,8 @@ Link | Span
 Table | Block
 
 ## Task lists
+ 
+ ***
 
 Structure | Raw Example
 --------- | -----------
@@ -153,4 +169,3 @@ Structure | Raw Example
 
 - [ ] Pending Task
 - [x] Completed Task
-
