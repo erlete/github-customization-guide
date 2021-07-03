@@ -13,7 +13,7 @@ The main objective of this project is to provide with a friendly learning interf
 In case you are searching for a specific chapter, you can find it here:
 
 1. [Introduction](https://erlete.github.io/github-customization-guide/)
-2. [GitHub-flavored Markdown Guide](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
+2. [GitHub-flavored Markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
 3. [GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)
 4. [GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.hmtl)
 5. [GitHub Stats (II)](https://erlete.github.io/github-customization-guide/guides/actions-guide-2.html)
