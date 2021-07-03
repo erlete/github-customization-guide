@@ -1,7 +1,7 @@
 ---
 title: "2. GitHub-flavored Markdown"
 author: "Paulo Sánchez"
-date: 2021-28-06
+date: 2021-06-28
 ---
 
 MarkDown language files (those with `.markdown` or `.md` extensions, such as `README.md`) have different structural elements that can be used to format text contained in them.
