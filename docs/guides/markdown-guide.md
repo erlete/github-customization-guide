@@ -1,6 +1,7 @@
 ---
-title: "GitHub-flavored Markdown"
+title: "2. GitHub-flavored Markdown"
 author: "Paulo Sánchez"
+date: 2021-28-06
 ---
 
 MarkDown language files (those with `.markdown` or `.md` extensions, such as `README.md`) have different structural elements that can be used to format text contained in them.
@@ -178,5 +179,8 @@ Structure | Raw Example
 - [ ] Pending Task
 - [x] Completed Task
 
-[Previous: Introduction](https://erlete.github.io/github-customization-guide/) | [Next: GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)
---------------------- | ---------------------
+***
+***
+
+* Previous: [1. Introduction](https://erlete.github.io/github-customization-guide/)
+* Next: [3. GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)

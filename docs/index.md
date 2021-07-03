@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "1. Introduction"
 author: "Paulo Sánchez"
 date: 2021-01-06
 ---
@@ -24,6 +24,6 @@ Although chapters can be accessed independently, I strongly recommend that you f
 
 _You will always find links at the end of the page that will redirect you to both previous and next chapters of this guide:_
 
-Next: [GitHub-flavored Markdown Guide](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
+* Next: [2. GitHub-flavored Markdown Guide](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
 
 <img src="https://erlete.github.io/github-customization-guide/illustrations/friendly-3.svg" alt="Final illustration" width="75%">
