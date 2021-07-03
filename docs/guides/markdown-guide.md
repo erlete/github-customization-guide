@@ -4,6 +4,8 @@ author: "Paulo Sánchez"
 date: 2021-06-28
 ---
 
+# 2. GitHub-flavored Markdown
+
 MarkDown language files (those with `.markdown` or `.md` extensions, such as `README.md`) have different structural elements that can be used to format text contained in them.
 
 This is a brief summary of said elements, pointing out their components and providing with some basic examples. The objective of this document is to set down the bases for the elaboration of a decent `README.md` file for GitHub.
