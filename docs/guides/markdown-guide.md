@@ -177,3 +177,6 @@ Structure | Raw Example
 
 - [ ] Pending Task
 - [x] Completed Task
+
+[Previous: ](https://erlete.github.io/github-customization-guide/index.html) | [Next](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)
+----- | -----
