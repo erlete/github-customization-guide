@@ -21,7 +21,11 @@ A simple card able to display:
 
 ***
 
-The structure of the above graph consists in a link referring to a server-hosted API that fetches your GitHub stats and displays them: `https://github-readme-stats.vercel.app/api`. The content of said link can be displayed in your own README.md files using the [syntax for embedding images in markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html#image-links):
+The structure of the above graph consists in a link referring to a server-hosted API that fetches your GitHub stats and displays them: 
+
+`https://github-readme-stats.vercel.app/api`.
+
+The content of said link can be displayed in your own README.md files using the [syntax for embedding images in markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html#image-links):
 
 `![<placeholder text>](https://github-readme-stats.vercel.app/api)`
 
