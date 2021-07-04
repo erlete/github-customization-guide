@@ -43,6 +43,8 @@ My GitHub stats URL looks like this:
 
 This is it! You have successfully set up your own GitHub stats display... but you might want to customize it, so take a look at the chapter below.
 
+***
+
 ### Parameters
 
 In this section there are two main indexes, ordered by [alphabetical order of the parameters](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html#alphabetical-order) and [parameters' area of application](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html#area-of-application). These indexes follow a specific structure:
@@ -67,38 +69,40 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `value from 1800 to 86400`
 * `count_private`
 	* If `true`, stats from private repositories are also gathered.
-		* `true` `false`
+		* `true` | `false`
 * `custom_title`
 	* Sets a custom title for the card.
+		* `text`
 * `disable_animations`
 	* Disables animations for the card.
+		* `true` | `false`
 * `hide`
 	* Takes one or many values and hides specific stats from the card.
-		* `stars` `commits` `prs` `issues` `contribs`
+		* `stars` | `commits` | `prs` | `issues` | `contribs`
 * `hide_border`
 	* If `true`, sets card's border as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `hide_rank`
 	* If `true`, sets the rank as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `hide_title`
 	* If `true`, sets card's title as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `icon_color`
 	* Sets icon color.
 		* `hex color code`
 * `include_all_commits`
 	* If `true`, all performed commits are counted.
-		* `true` `false`
+		* `true` | `false`
 * `line_height`
 	* Sets line height between text lines.
 		* `positive value`
 * `locale`
 	* Sets card's language.
-		* `cn` `de` `es` `en` (...)
+		* `cn` | `de` | `es` | `en` | (...)
 * `show_icons`
 	* If `true`, sets icons as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `text_color`
 	* Sets text color.
 		* `hex color code`
@@ -109,6 +113,8 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 	* Sets title color.
 		* `hex color code`
 
+***
+
 #### Area of application
 
 ##### Functionality
@@ -118,16 +124,16 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `value from 1800 to 86400`
 * `count_private`
 	* If `true`, stats from private repositories are also gathered.
-		* `true` `false`
+		* `true` | `false`
 * `hide`
 	* Takes one or many values and hides specific stats from the card.
-		* `stars` `commits` `prs` `issues` `contribs`
+		* `stars` | `commits` | `prs` | `issues` | `contribs`
 * `include_all_commits`
 	* If `true`, all performed commits are counted.
-		* `true` `false`
+		* `true` | `false`
 * `locale`
 	* Sets card's language.
-		* `cn` `de` `es` `en` (...)
+		* `cn` | `de` | `es` | `en` | (...)
 
 ##### Customization
 
@@ -142,17 +148,19 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `positive value`
 * `custom_title`
 	* Sets a custom title for the card.
+		* `text`
 * `disable_animations`
 	* Disables animations for the card.
+		* `true` | `false`
 * `hide_border`
 	* If `true`, sets card's border as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `hide_rank`
 	* If `true`, sets the rank as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `hide_title`
 	* If `true`, sets card's title as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `icon_color`
 	* Sets icon color.
 		* `hex color code`
@@ -161,7 +169,7 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `positive value`
 * `show_icons`
 	* If `true`, sets icons as hidden.
-		* `true` `false`
+		* `true` | `false`
 * `text_color`
 	* Sets text color.
 		* `hex color code`
@@ -171,8 +179,6 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 * `title_color`
 	* Sets title color.
 		* `hex color code`
-
-
 
 ***
 ***
