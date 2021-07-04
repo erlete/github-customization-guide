@@ -69,40 +69,40 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `value from 1800 to 86400`
 * `count_private`
 	* If `true`, stats from private repositories are also gathered.
-		* `true` | `false`
+		* `true` \| `false`
 * `custom_title`
 	* Sets a custom title for the card.
 		* `text`
 * `disable_animations`
 	* Disables animations for the card.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide`
 	* Takes one or many values and hides specific stats from the card.
-		* `stars` | `commits` | `prs` | `issues` | `contribs`
+		* `stars` \| `commits` \| `prs` \| `issues` \| `contribs`
 * `hide_border`
 	* If `true`, sets card's border as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide_rank`
 	* If `true`, sets the rank as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide_title`
 	* If `true`, sets card's title as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `icon_color`
 	* Sets icon color.
 		* `hex color code`
 * `include_all_commits`
 	* If `true`, all performed commits are counted.
-		* `true` | `false`
+		* `true` \| `false`
 * `line_height`
 	* Sets line height between text lines.
 		* `positive value`
 * `locale`
 	* Sets card's language.
-		* `cn` | `de` | `es` | `en` | (...)
+		* `cn` \| `de` \| `es` \| `en` \| (...)
 * `show_icons`
 	* If `true`, sets icons as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `text_color`
 	* Sets text color.
 		* `hex color code`
@@ -124,16 +124,16 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `value from 1800 to 86400`
 * `count_private`
 	* If `true`, stats from private repositories are also gathered.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide`
 	* Takes one or many values and hides specific stats from the card.
-		* `stars` | `commits` | `prs` | `issues` | `contribs`
+		* `stars` \| `commits` \| `prs` \| `issues` \| `contribs`
 * `include_all_commits`
 	* If `true`, all performed commits are counted.
-		* `true` | `false`
+		* `true` \| `false`
 * `locale`
 	* Sets card's language.
-		* `cn` | `de` | `es` | `en` | (...)
+		* `cn` \| `de` \| `es` \| `en` \| (...)
 
 ##### Customization
 
@@ -151,16 +151,16 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `text`
 * `disable_animations`
 	* Disables animations for the card.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide_border`
 	* If `true`, sets card's border as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide_rank`
 	* If `true`, sets the rank as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `hide_title`
 	* If `true`, sets card's title as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `icon_color`
 	* Sets icon color.
 		* `hex color code`
@@ -169,7 +169,7 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 		* `positive value`
 * `show_icons`
 	* If `true`, sets icons as hidden.
-		* `true` | `false`
+		* `true` \| `false`
 * `text_color`
 	* Sets text color.
 		* `hex color code`
@@ -183,5 +183,4 @@ In this section there are two main indexes, ordered by [alphabetical order of th
 ***
 ***
 
-* Previous: [2. GitHub-flavored Markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
-* Next: [4. GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.html)
+Previous: [2. GitHub-flavored Markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html) | Next: [4. GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.html)
