@@ -182,7 +182,5 @@ Structure | Raw Example
 - [x] Completed Task
 
 ***
-***
 
-* Previous: [1. Introduction](https://erlete.github.io/github-customization-guide/)
-* Next: [3. GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)
+Previous: [1. Introduction](https://erlete.github.io/github-customization-guide/) | Next: [3. GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)

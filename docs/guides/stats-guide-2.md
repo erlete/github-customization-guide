@@ -7,7 +7,5 @@ date: 2021-02-07
 # 5. GitHub Stats (II)
 
 ***
-***
 
-* Previous: [4. GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.html)
-* Next: [6. GitHub Pages](https://erlete.github.io/github-customization-guide/guides/pages-guide.html)
+Previous: [4. GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.html) | Next: [6. GitHub Pages](https://erlete.github.io/github-customization-guide/guides/pages-guide.html)
