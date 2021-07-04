@@ -10,6 +10,6 @@ Although chapters can be accessed independently, I strongly recommend that you f
 
 # Accreditations and Licensing
 
-All legal requirements from third-party projects have been carefully examined and met. This repository is not, in any way, a distribution of the contents cited in [the sources](), but a way of promoting the work of the respective authors of each individual project.
+All legal requirements from third-party projects have been carefully examined and met. This repository is not, in any way, a distribution of the contents cited in [the sources](https://erlete.github.io/github-customization-guide/accreditations/sources.html), but a way of promoting the work of the respective authors of each individual project.
 
 **I ([erlete]()) only take credit for the research labor related to this guide and its elaboration.**
