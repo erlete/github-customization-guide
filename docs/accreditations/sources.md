@@ -22,7 +22,7 @@ Author | Project Name | Data Extracted
   * languages.svg
   * overview.svg
 * .gitattributes
-* .gitignore
+* .gitignore (extended contents due to personal requirements)
 * LICENSE (GPL-3.0, as required by [github-stats license](https://github.com/jstrieb/github-stats/blob/master/LICENSE/))
 * generate_images.py
 * github_stats.py
