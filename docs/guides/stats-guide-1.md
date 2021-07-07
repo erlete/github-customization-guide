@@ -419,4 +419,12 @@ Since this index is divided in sections, this index might help you get a clear v
 
 ***
 
+Want to see some epic stuff? Check below :)
+
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,ddab44,9e1f1f,051350&hide_border=true&text_color=000000&title_color=FFFFFF&show_icons=true&icon_color=881f9e&border_radius=15)
+
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,0a3203,879e1f,ffef42,879e1f,0a3203&border_color=202020&text_color=202020&title_color=000000&show_icons=true&icon_color=ff8942&border_radius=15)
+
+***
+
 Previous: [2. GitHub-flavored Markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html) | Next: [4. GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.html)
