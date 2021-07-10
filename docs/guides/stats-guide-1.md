@@ -421,9 +421,15 @@ Since this index is divided in sections, this index might help you get a clear v
 
 Want to see some epic stuff? Check below :)
 
-![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,ddab44,9e1f1f,051350&hide_border=true&text_color=000000&title_color=FFFFFF&show_icons=true&icon_color=881f9e&border_radius=15)
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,7d29b5,ff7a00&text_color=000000&title_color=f7c8c8&show_icons=true&icon_color=ffcf00&border_radius=15&border_color=ffffff)
 
-![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,0a3203,879e1f,ffef42,879e1f,0a3203&border_color=202020&text_color=202020&title_color=000000&show_icons=true&icon_color=ff8942&border_radius=15)
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,0a3203,879e1f,ffef42,879e1f,0a3203&border_color=000000&text_color=202020&title_color=000000&show_icons=true&icon_color=ff8942&border_radius=15&custom_title=A jungly theme!)
+
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=DEG,5b287d,684483,a65c79,c96a71,b99cff,a377ff,757cd2,47aee9,36a6da,3b75ff&border_color=03534d&text_color=9de2ff&title_color=6a3091&show_icons=true&icon_color=b09cff&border_radius=30&custom_title=                              Centered title!&count_private=true&show_owner=true)
+
+![Erlete's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlete&bg_color=000000&title_color=ffffff&border_radius=20&custom_title=Did you know that you can make custom headers with this? \:D&hide=stars,contribs,prs,issues,commits&hide_rank=true)
+
+
 
 ***
 
