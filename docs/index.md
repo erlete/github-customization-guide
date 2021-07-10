@@ -18,7 +18,7 @@ In case you are searching for a specific chapter, you can find it here:
 2. [GitHub-flavored Markdown](https://erlete.github.io/github-customization-guide/guides/markdown-guide.html)
 3. [GitHub Stats (I)](https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html)
 4. [GitHub Actions](https://erlete.github.io/github-customization-guide/guides/actions-guide.hmtl)
-5. [GitHub Stats (II)](https://erlete.github.io/github-customization-guide/guides/actions-guide-2.html)
+5. [GitHub Stats (II)](https://erlete.github.io/github-customization-guide/guides/stats-guide-2.html)
 6. [GitHub Pages](https://erlete.github.io/github-customization-guide/guides/pages-guide.html)
 7. [Self-updating READMEs]()
 

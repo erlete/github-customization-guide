@@ -8,7 +8,7 @@ Author | Project Name | Data Extracted
 [GitHub Guides](https://guides.github.com/) | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) | Guide fragments
 [Daring Fireball](https://daringfireball.net/) | [Markdown](https://daringfireball.net/projects/markdown/) | Guide fragments
 [anuraghazra](https://github.com/anuraghazra/) | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/) | README.md contents
-[jstrieb](https://github.com/jstrieb/) | [github-stats](https://github.com/anuraghazra/github-readme-stats/) | [Repository files](#jstriebs-repository-files)
+[jstrieb](https://github.com/jstrieb/) | [github-stats](https://github.com/jstrieb/github-stats/) | [Repository files](#jstriebs-repository-files)
 
 ### Jstrieb's Repository Files
 
