@@ -1,0 +1,10 @@
+title: GitHub Customization Guide
+author: Paulo Sánchez
+theme: jekyll-theme-minimal
+email: szblzpaulo@gmail.com
+description: >
+    A complete guide for GitHub READMEs customization.
+
+github_username:  erlete
+
+show_excerpts: true
