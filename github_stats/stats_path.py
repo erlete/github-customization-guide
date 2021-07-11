@@ -15,4 +15,4 @@
 # Example 2: multiple folder enclosing.
 # path = "main_folder/sub_folder/"
 
-path = "github-stats"
+path = "github_stats"
