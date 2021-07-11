@@ -12,11 +12,11 @@ from github_stats import Stats
 # Erlete's functionality expansion for directory enclosing
 ################################################################################
 
-from stats_path import path
+from stats_path import path, expath
 
 # Quick fix for error prevention:
 path += '/' if path[-1] != '/' else ''
-
+expath += '/' if expath[-1] != '/' else ''
 
 ################################################################################
 # Helper Functions
@@ -56,6 +56,10 @@ async def generate_overview(s: Stats) -> None:
     with open(path + "generated/overview.svg", "w") as f:
         f.write(output)
 
+    # Export path implementation:
+    if expath:
+        with open(expath + "generated/overview.svg", "w") as f:
+            f.write(output)
 
 async def generate_languages(s: Stats) -> None:
     """
@@ -93,6 +97,11 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     generate_output_folder()
     with open(path + "generated/languages.svg", "w") as f:
         f.write(output)
+
+    # Export path implementation:
+    if expath:
+        with open(expath + "generated/languages.svg", "w") as f:
+            f.write(output)
 
 
 ################################################################################

@@ -16,3 +16,9 @@
 # path = "main_folder/sub_folder/"
 
 path = "github_stats"
+
+################################################################################
+# Export path definition
+################################################################################
+
+expath = "docs/illustrations/github_stats/"
