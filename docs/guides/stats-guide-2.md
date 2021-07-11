@@ -27,11 +27,11 @@ This statistics card is able to display:
 
 ***
 
-### Personal Access Token
+### Personal Access Token
 
 First of all, if you want to use this functionality, you must generate a Personal Access Token (PAT) for GitHub itself. PATs are, in some way, "passwords" to partially or totally log in to the platform, which come in handy if you are using an Application Programming Interface (API), which we are doing here, that would require some authentication method. It would be, to say the least, unsafe to provide to the API with your own GitHub password, which has master access to your account. Instead, PATs are used, since their permissions' range can be restricted.
 
-#### PAT Generation Steps
+#### PAT Generation Steps
 
 * On the upper right corner of the screen, click on your profile icon.
 * Go to ***Settings***.
@@ -50,7 +50,7 @@ Remember the generated PAT, which should be a weird collection of alphanumeric a
 
 
 
-#### Secret Generation Steps
+#### Secret Generation Steps
 
 * Go to the repository where you want to install GitHub Stats.
 * There is a navigation bar on top of the repository files with links to *Code*, *Issues*... On the right, click on ***Settings***.
