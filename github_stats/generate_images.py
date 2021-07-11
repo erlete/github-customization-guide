@@ -18,6 +18,10 @@ from stats_path import path, expath
 path += '/' if path[-1] != '/' else ''
 expath += '/' if expath[-1] != '/' else ''
 
+# TODO: Consider setting a dynamic directory localization for output folder
+#   generation.
+
+
 ################################################################################
 # Helper Functions
 ################################################################################
@@ -58,8 +62,9 @@ async def generate_overview(s: Stats) -> None:
 
     # Export path implementation:
     if expath:
-        with open(expath + "generated/overview.svg", "w") as f:
+        with open(expath + "overview.svg", "w") as f:
             f.write(output)
+
 
 async def generate_languages(s: Stats) -> None:
     """
@@ -100,9 +105,9 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
     # Export path implementation:
     if expath:
-        with open(expath + "generated/languages.svg", "w") as f:
+        with open(expath + "languages.svg", "w") as f:
             f.write(output)
-
+            
 
 ################################################################################
 # Main Function
