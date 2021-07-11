@@ -26,12 +26,12 @@ expath += '/' if expath[-1] != '/' else ''
 # Helper Functions
 ################################################################################
 
-def generate_output_folder() -> None:
+def generate_output_folder(dirpath = "") -> None:
     """
     Create the output folder if it does not already exist
     """
-    if not os.path.isdir("generated"):
-        os.mkdir("generated")
+    if not os.path.isdir(dirpath + "generated"):
+        os.mkdir(dirpath + "generated")
 
 
 ################################################################################
@@ -62,7 +62,8 @@ async def generate_overview(s: Stats) -> None:
 
     # Export path implementation:
     if expath:
-        with open(expath + "overview.svg", "w") as f:
+        generate_output_path(expath)
+        with open(expath + "generated/overview.svg", "w") as f:
             f.write(output)
 
 
@@ -105,7 +106,8 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
     # Export path implementation:
     if expath:
-        with open(expath + "languages.svg", "w") as f:
+        generate_output_path(expath)
+        with open(expath + "generated/languages.svg", "w") as f:
             f.write(output)
             
 
