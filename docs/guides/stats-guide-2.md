@@ -19,7 +19,7 @@ This statistics card is able to display:
 * Repository views.
 * Repositories with contributions.
 
-![](https://github.com/erlete/github-customization-guide/blob/master/docs/illustrations/generated/overview.svg)
+<img src="https://erlete.github.io/github-customization-guide/illustrations/generated/overview.svg" alt="GitHub Stats">
 
 ***
 
