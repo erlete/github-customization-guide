@@ -62,7 +62,7 @@ async def generate_overview(s: Stats) -> None:
 
     # Export path implementation:
     if expath:
-        generate_output_path(expath)
+        generate_output_folder(expath)
         with open(expath + "generated/overview.svg", "w") as f:
             f.write(output)
 
@@ -106,7 +106,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
     # Export path implementation:
     if expath:
-        generate_output_path(expath)
+        generate_output_folder(expath)
         with open(expath + "generated/languages.svg", "w") as f:
             f.write(output)
             
