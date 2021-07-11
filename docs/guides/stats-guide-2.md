@@ -47,9 +47,6 @@ Remember the generated PAT, which should be a weird collection of alphanumeric a
 
 ### Repository Secrets
 
-
-
-
 #### Secret Generation Steps
 
 * Go to the repository where you want to install GitHub Stats.
