@@ -1,6 +1,6 @@
 title: GitHub Customization Guide
 author: Paulo Sánchez
-remote_theme: benbalter/retlab
+remote_theme: poole/lanyon
 email: szblzpaulo@gmail.com
 description: >
     A complete guide for GitHub READMEs customization.
